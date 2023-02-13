@@ -6,7 +6,7 @@
 
 Graphic based OOP calcualtor. 
 
-![Running Calculator]()
+![Running Calculator](https://github.com/Benurwin24/Programing-Portfolio-/blob/main/images/calc.png?raw=true)
 
 [Source Code]()
 
