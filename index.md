@@ -1,8 +1,31 @@
 #Welcome to Ben Urwin's Programing Portfolio
 
-##Programing 1 Semester 1:
+##Programing 1 Semester 1 Projects:
 
-###Calculator
+### OOP Calculator
 
-##Programing 1 Semester 2:
+Graphic based OOP calcualtor. 
 
+![Running Calculator]()
+
+[Source Code]()
+
+### ScreenSaver
+
+![Running ScreenSaver]()
+
+[Source Code]()
+
+###SpaceGame
+
+![Running SpaceGame]()
+
+[Source Code]()
+
+##Programing 1 Semester 2 Projects:
+
+###ShapeTester
+
+![Running ShapeTester]()
+
+[Source Code]()
